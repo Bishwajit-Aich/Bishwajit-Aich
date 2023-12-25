@@ -58,8 +58,14 @@
 
 
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishwajit-aich&show_icons=true&locale=en&layout=compact" alt="bishwajit-aich" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishwajit-aich&show_icons=true&locale=en" alt="bishwajit-aich" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishwajit-aich&" alt="bishwajit-aich" /></p>
+
+
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
