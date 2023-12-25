@@ -52,6 +52,11 @@
   </a>
 </div>
 
+<div align="inline">
+<img align="center" src="https://octodex.github.com/images/welcometocat.png" width="300">
+ <img width="900px center" src="https://github-readme-activity-graph.vercel.app/graph?username=Bishwajit-Aich&theme=github">
+ </div>
+
 
 
 
