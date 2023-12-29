@@ -1,9 +1,3 @@
-
-
-
-
-
-
 ![logo](https://github.com/Bishwajit-Aich/Bishwajit-Aich/blob/main/Bishwajit%20Aich.jpg)
 <h1 align="center">Hi 👋, I'm Bishwajit Aich</h1>
 <h3 align="center">Trying To Rebirth Everyday♾️♾️♾️♾️.........</h3>
@@ -74,3 +68,4 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Bishwajit-Aich&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+![Good Bye animation](https://camo.githubusercontent.com/b27e1af6c002c13521bf8b74fddbc7f49303cb86ea27d608496ac90f603e027f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d476f6f64253230427965266865696768743d38302673656374696f6e3d666f6f74657226666f6e7453697a653d3230)
